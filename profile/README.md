@@ -13,8 +13,6 @@
 [**Stay:Care 바로가기 →**](https://hackathon-staycare.netlify.app/)
 
 
-# 🏠 Stay:Care
-
 ## 💡 서비스 소개
 
 **Stay:Care**는 바쁜 일상 속에서 피부 관리를 꾸준히 이어가기 어려운 **2030 직장인과 대학생을 위한 개인 맞춤형 홈케어 서비스**입니다.
